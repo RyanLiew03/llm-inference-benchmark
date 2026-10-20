@@ -20,3 +20,8 @@
 
 ## 如何复现
 （由于所有实验均基于 vLLM 官方 CLI 参数调优，复现极其简单，详情请见 `experiments/` 目录下的各 Markdown 文档）。
+## 如何运行
+
+1. 安装依赖：
+```bash
+pip install -r requirements.txt
